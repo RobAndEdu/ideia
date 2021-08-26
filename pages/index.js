@@ -1,6 +1,6 @@
 function Home(){
   return <div>
-    Home
+    Página de teste
   </div>
 }
 export default Home;
