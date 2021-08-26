@@ -1,7 +1,8 @@
 function Home(){
 
-  return <div>
-    Página de teste
-  </div>
+  return (<div>
+    <h1>Home</h1>
+    <a href="/sobre"></a>
+  </div>)
 }
-export default Home;
+export default Home
